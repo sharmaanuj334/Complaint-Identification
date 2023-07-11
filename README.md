@@ -1,2 +1,2 @@
-# ml
+# Machine Learning
 Contains Machine Learning Projects
