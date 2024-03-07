@@ -1,2 +1,1 @@
-# Machine Learning
-Contains Machine Learning Projects
+◦ Created a machine learning classifier for classification of complaint along with the sub-tasks of sentiment, emotion, severity through text data. ◦ Using bert model, created 2 architectures to test for the optimal algorithm along with using 2 loss functions to analyse whether contrastive loss helps in improving the accuracy or not, finding that crossEntropy always outperformed the contrastive loss. ◦ An accuracy of 88.3% was obtained in complaint task
